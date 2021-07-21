@@ -1,0 +1,10 @@
+.digital-haat-bg{
+    background-color: rgb(175, 114, 114);
+}
+.animal-btn-buy-now{
+    background-image: linear-gradient(to bottom, #ce7244 0%, #ff5810 100% );
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
